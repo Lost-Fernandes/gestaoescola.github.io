@@ -1,2 +1,3 @@
 # gestaoescola.github.io
-Em processo de AD
+Projeto em processo de estudos e adaptações
+voltado para gestão escolar infantil.
